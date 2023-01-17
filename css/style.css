@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    background-color: rgb(245, 172, 83);
+    font-size:x-large;
+}
+
+h2{
+    color: rgb(120, 138, 199);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: xx-large;
+}
+
+em{
+    color: rgb(120, 138, 199);
+}
+
+h4{
+    color: rgb(74, 88, 139);
+}
